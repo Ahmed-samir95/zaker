@@ -40,3 +40,21 @@ body{
 .navbar .navbar-toggler:focus{
     box-shadow: none;
 }
+/* -------------------------------------------------------------------------------- */
+/* landing */
+.landing{
+    min-height: calc(100vh - 72px);
+}
+
+.landing .landing-text{
+    color: var(--paragraph-color);
+}
+
+.landing .landing-text span{
+    color: var(--main-color);
+}
+
+
+
+
+
