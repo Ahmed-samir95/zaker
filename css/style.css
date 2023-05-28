@@ -11,6 +11,15 @@ body{
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+.section-heading svg{
+    color: var(--main-color);
+}
+
+.section-heading-title{
+    color: var(--main-color);
+
+}
+
 .navbar{
     background-color: var(--bg-color);
 } 
@@ -43,7 +52,7 @@ body{
 /* -------------------------------------------------------------------------------- */
 /* landing */
 .landing{
-    min-height: calc(100vh - 72px);
+     min-height: calc(100vh - 72px); 
 }
 
 .landing .landing-text{
@@ -53,8 +62,8 @@ body{
 .landing .landing-text span{
     color: var(--main-color);
 }
-
-
+/* ------------------------------------------------------------------------ */
+/* ayat */
 
 
 
