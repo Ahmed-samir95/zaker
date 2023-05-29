@@ -7,8 +7,21 @@
     --main-transition: .5s;
 }
 
+img{
+    max-width: 100%;
+}
+
 body{
     font-family: 'Roboto Condensed', sans-serif;
+}
+
+.main-btn{
+    background-color: var(--main-color);
+    transition: var(--main-transition);
+}
+
+.main-btn:hover{
+    background-color: var(--hover-color);
 }
 
 .section-heading svg{
@@ -64,6 +77,8 @@ body{
 }
 /* ------------------------------------------------------------------------ */
 /* ayat */
-
+.ayat-item-desc{
+    color: var(--bg-color);
+}
 
 
