@@ -32,7 +32,8 @@ body{
     color: var(--main-color);
 
 }
-
+/* ----------------------------------------------------------------------------------- */
+/* navbar */
 .navbar{
     background-color: var(--bg-color);
 } 
@@ -65,7 +66,8 @@ body{
 /* -------------------------------------------------------------------------------- */
 /* landing */
 .landing{
-     min-height: calc(100vh - 72px); 
+     /* min-height: calc(100vh - 72px);  */
+     min-height: 70vh;
 }
 
 .landing .landing-text{
@@ -80,5 +82,22 @@ body{
 .ayat-item-desc{
     color: var(--bg-color);
 }
+/* ---------------------------------------------------------------------------- */
+/* adeia */
+.adeia{
+    background-color: var(--bg-color);
+}
+
+.adeia-desc{
+    color: var(--main-color);
+}
+
+
+
+
+
+
+
+
 
 
