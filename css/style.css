@@ -4,6 +4,7 @@
     --hover-color: #d17e16  ;
     --paragraph-color:  #333333;
     --wh-color: #fff;
+    --body-color: rgb(217 224 228);
     --main-transition: .5s;
 }
 
@@ -13,6 +14,7 @@ img{
 
 body{
     font-family: 'Roboto Condensed', sans-serif;
+    background-color: var(--body-color);
 }
 
 .main-btn{
