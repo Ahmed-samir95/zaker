@@ -120,9 +120,13 @@ body{
 .azkar-desc{
     color: var(--wh-color);
 }
+/* -------------------------------------------------------------------------------- */
+/* footer */
+footer{
+    background-color: var(--bg-color);
+}
 
-
-
-
-
+.footer-desc{
+    color: var(--wh-color);
+}
 
