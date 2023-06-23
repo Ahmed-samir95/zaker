@@ -93,10 +93,10 @@ body{
 
 /* ------------------------------------------------------------------------------------- */
 /* footer */
-/* footer{
+footer{
     background-color: var(--bg-color);
 }
 
 .footer-desc{
     color: var(--wh-color);
-} */
+} 
