@@ -80,3 +80,18 @@ footer{
 .footer-desc{
     color: var(--wh-color);
 } 
+/* ----------------------------------------------------------------------------------------- */
+/* btn to up */
+.btn-up{
+    background-color: var(--main-color);
+    color: var(--wh-color);
+    border: none;
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    display: none;
+    
+}
