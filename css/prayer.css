@@ -67,10 +67,7 @@ body{
     box-shadow: none;
 }
 /* -------------------------------------------------------------------------------- */
-.prayer .row .col{
-   border: .2rem solid var(--main-color);
-   border-radius: .5rem;
-}
+
 
 
 
