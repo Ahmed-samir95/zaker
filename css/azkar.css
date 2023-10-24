@@ -66,3 +66,7 @@ body{
   box-shadow: none;
 }
 /* -------------------------------------------------------------------------------- */
+.shuffle li.active, .shuffle li:hover{
+  color: var(--main-color);
+  cursor: pointer;
+}
